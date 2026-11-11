@@ -1,0 +1,19 @@
+step,phase,owner,can_automate,due_day,status,notes
+Create sample email account,before day 1,Sample IT Support,yes,-3,done,Created from standard starter form
+Create sample chat account,before day 1,Sample IT Support,yes,-3,done,Created from standard starter form
+Prepare sample laptop,before day 1,Sample IT Support,no,-2,done,Standard software installed and checked
+Order sample access badge,before day 1,Sample Office Admin,no,-5,in progress,Badge request sent — waiting on sample supplier
+Request sample system access,before day 1,Sample Team Lead,no,-3,in progress,Role confirmed — access request filed
+Send sample welcome email,before day 1,Sample IT Support,yes,-1,done,Welcome email with first-day details sent
+Hand over sample laptop,day 1,Sample IT Support,no,1,done,Device handed over in person
+Help with first login,day 1,Sample IT Support,no,1,done,First login worked — password set by starter
+Check sample email works,day 1,Sample IT Support,no,1,done,Test email sent and received
+Check sample printer access,day 1,Sample IT Support,no,1,blocked,Sample printer queue not reachable — sample ticket raised
+Introduce sample team,week 1,Sample Team Lead,no,3,not started,Planned for day 3 team meeting
+Grant sample project system access,week 1,Sample Team Lead,no,4,not started,Needs role confirmation from sample manager
+Run sample security basics training,week 1,Sample IT Support,yes,5,not started,Standard training slides ready
+Set up sample backup on laptop,week 1,Sample IT Support,yes,5,not started,Standard backup policy applies
+First-week check-in conversation,week 1,Sample Team Lead,no,5,not started,30-minute check-in booked
+Review sample access list,week 2+,Sample IT Support,no,10,not started,Check starter has only the access they need
+Collect sample starter feedback,week 2+,Sample Team Lead,no,10,not started,Ask what was confusing or missing
+Close sample onboarding checklist,week 2+,Sample IT Support,no,14,not started,Close only when every step is done or marked not needed
